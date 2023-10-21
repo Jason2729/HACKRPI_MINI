@@ -22,7 +22,7 @@ Covered:
 
 
 SPONSERED BY:
-[MLH Pizza Fund](hackp.ac/pizzafund-resources)
+[MLH Pizza Fund](https://mlh.gitbook.io/major-league-hacking-pizza-fund/GXukjsbPHOyBplCPibsj/partners?utm_campaign=other-hackers-pizza_fund_promo_event_partners&utm_medium=website&utm_source=partner)
 
 [Link to Website](https://jason2729.github.io/HACKRPI_MINI/)
 ![Dragn Image](dragn.jpg)
